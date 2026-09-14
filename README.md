@@ -1,4 +1,4 @@
-# Product Landing Page
+# ENS Pulse
 
 A static, responsive landing page for a fictional product, ENS Pulse wireless over-ear headphones. Built with Next.js (App Router), TypeScript, and Tailwind CSS.
 
