@@ -1,5 +1,6 @@
 import { SiteHeader } from '@/components/site-header'
 import { ProductHero } from '@/components/product-hero'
+import { ProductFeatures } from '@/components/product-features'
 
 export default function Page() {
   return (
@@ -7,6 +8,7 @@ export default function Page() {
       <SiteHeader />
       <main className="flex-1">
         <ProductHero />
+        <ProductFeatures />
       </main>
     </div>
   )
